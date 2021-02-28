@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\carrera\3º\tais\juez tais\grafos dirigidos valorados\prob23_navegandosinteclado\prob23_navegandosinteclado\source.cpp(36): warning C4305: 'inicializando': truncamiento de '__int64' a 'const int'
+d:\carrera\3º\tais\juez tais\grafos dirigidos valorados\prob23_navegandosinteclado\prob23_navegandosinteclado\source.cpp(36): warning C4309: 'inicializando': truncamiento de valor constante
+  Prob23_NavegandoSinTeclado.vcxproj -> D:\Carrera\3º\TAIS\juez tais\Grafos dirigidos valorados\Prob23_NavegandoSinTeclado\Debug\Prob23_NavegandoSinTeclado.exe

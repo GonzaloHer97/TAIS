@@ -1,0 +1,8 @@
+﻿-------- Iniciada la compilación de Editar y continuar --------
+
+Source.cpp
+d:\carrera\3º\tais\juez tais\voraz\prob27_agujerosenlamanguera\prob27_agujeros e\source.cpp(21): warning C4018: '<': no coinciden signed/unsigned
+--------------------- Listo ----------------------
+
+Editar y continuar: cambios de código aplicados correctamente.
+

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\carrera\3º\tais\juez tais\grafos dirigidos valorados\prob26_repartiendopaquetes\prob26_repartiendopaquetes\source.cpp(37): warning C4305: 'inicializando': truncamiento de '__int64' a 'const int'
+d:\carrera\3º\tais\juez tais\grafos dirigidos valorados\prob26_repartiendopaquetes\prob26_repartiendopaquetes\source.cpp(37): warning C4309: 'inicializando': truncamiento de valor constante
+  Prob26_RepartiendoPaquetes.vcxproj -> D:\Carrera\3º\TAIS\juez tais\Grafos dirigidos valorados\Prob26_RepartiendoPaquetes\Debug\Prob26_RepartiendoPaquetes.exe

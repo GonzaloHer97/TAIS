@@ -1,0 +1,7 @@
+﻿  Source.cpp
+d:\carrera\3º\tais\juez tais\colas de prioridad y montículos\prob52_lasgorrasdelacompetecion\prob52_lasgorrasdelacompetecion\source.cpp(44): warning C4244: '+=': conversión de 'T' a 'int'; posible pérdida de datos
+          with
+          [
+              T=__int64
+          ]
+  Prob52_LasGorrasDeLaCompetecion.vcxproj -> D:\Carrera\3º\TAIS\juez tais\Colas de prioridad y montículos\Prob52_LasGorrasDeLaCompetecion\Debug\Prob52_LasGorrasDeLaCompetecion.exe

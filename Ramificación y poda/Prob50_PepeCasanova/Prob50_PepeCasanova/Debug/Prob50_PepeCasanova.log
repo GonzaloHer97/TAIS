@@ -1,0 +1,6 @@
+﻿  Source.cpp
+d:\carrera\3º\tais\juez tais\ramificación y poda\prob50_pepecasanova\prob50_pepecasanova\source.cpp(34): warning C4018: '<': no coinciden signed/unsigned
+d:\carrera\3º\tais\juez tais\ramificación y poda\prob50_pepecasanova\prob50_pepecasanova\source.cpp(42): warning C4018: '<': no coinciden signed/unsigned
+d:\carrera\3º\tais\juez tais\ramificación y poda\prob50_pepecasanova\prob50_pepecasanova\source.cpp(66): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+d:\carrera\3º\tais\juez tais\ramificación y poda\prob50_pepecasanova\prob50_pepecasanova\source.cpp(79): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  Prob50_PepeCasanova.vcxproj -> D:\Carrera\3º\TAIS\juez tais\Ramificación y poda\Prob50_PepeCasanova\Debug\Prob50_PepeCasanova.exe

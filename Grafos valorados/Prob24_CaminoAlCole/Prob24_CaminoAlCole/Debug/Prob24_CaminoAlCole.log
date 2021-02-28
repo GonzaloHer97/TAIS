@@ -1,0 +1,8 @@
+﻿  Source.cpp
+d:\carrera\3º\tais\juez tais\grafos valorados\prob24_caminoalcole\prob24_caminoalcole\source.cpp(22): warning C4305: 'argumento': truncamiento de '__int64' a 'const _Ty'
+          with
+          [
+              _Ty=int
+          ]
+d:\carrera\3º\tais\juez tais\grafos valorados\prob24_caminoalcole\prob24_caminoalcole\source.cpp(22): warning C4309: 'argumento': truncamiento de valor constante
+  Prob24_CaminoAlCole.vcxproj -> D:\Carrera\3º\TAIS\juez tais\Grafos valorados\Prob24_CaminoAlCole\Debug\Prob24_CaminoAlCole.exe

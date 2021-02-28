@@ -1,0 +1,22 @@
+﻿  Source.cpp
+d:\carrera\3º\tais\juez tais\grafos valorados\prob22_archipielagoenbicicleta\prob22_archipielagoenbicicleta\priorityqueue.h(39): warning C4018: '<': no coinciden signed/unsigned
+  d:\carrera\3º\tais\juez tais\grafos valorados\prob22_archipielagoenbicicleta\prob22_archipielagoenbicicleta\priorityqueue.h(37): note: durante la compilación de la función miembro de plantilla clase de 'PriorityQueue<Arista<int>,std::less<T>>::PriorityQueue(const std::vector<Arista<int>,std::allocator<_Ty>> &,Comparator)'
+          with
+          [
+              T=Arista<int>,
+              _Ty=Arista<int>,
+              Comparator=std::less<Arista<int>>
+          ]
+  d:\carrera\3º\tais\juez tais\grafos valorados\prob22_archipielagoenbicicleta\prob22_archipielagoenbicicleta\source.cpp(23): note: vea la referencia a la creación de instancias de plantilla de función 'PriorityQueue<Arista<int>,std::less<T>>::PriorityQueue(const std::vector<Arista<int>,std::allocator<_Ty>> &,Comparator)' que se está compilando
+          with
+          [
+              T=Arista<int>,
+              _Ty=Arista<int>,
+              Comparator=std::less<Arista<int>>
+          ]
+  d:\carrera\3º\tais\juez tais\grafos valorados\prob22_archipielagoenbicicleta\prob22_archipielagoenbicicleta\source.cpp(23): note: vea la referencia a la creación de instancias de plantilla clase de 'PriorityQueue<Arista<int>,std::less<T>>' que se está compilando
+          with
+          [
+              T=Arista<int>
+          ]
+  Prob22_ArchipielagoEnBicicleta.vcxproj -> D:\Carrera\3º\TAIS\juez tais\Grafos valorados\Prob22_ArchipielagoEnBicicleta\Debug\Prob22_ArchipielagoEnBicicleta.exe

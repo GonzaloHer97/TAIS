@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\carrera\3º\tais\juez tais\programación dinámica\prob35_lacuerdadelacometa\prob35_lacuerdadelacometa\source.cpp(36): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+d:\carrera\3º\tais\juez tais\programación dinámica\prob35_lacuerdadelacometa\prob35_lacuerdadelacometa\source.cpp(51): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+d:\carrera\3º\tais\juez tais\programación dinámica\prob35_lacuerdadelacometa\prob35_lacuerdadelacometa\source.cpp(66): warning C4244: 'argumento': conversión de '__int64' a 'const unsigned int'; posible pérdida de datos
+  Prob35_LaCuerdaDeLaCometa.vcxproj -> D:\Carrera\3º\TAIS\juez tais\Programación dinámica\Prob35_LaCuerdaDeLaCometa\Debug\Prob35_LaCuerdaDeLaCometa.exe
